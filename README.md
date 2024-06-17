@@ -1,7 +1,5 @@
 # PRODIGY_DS_01
-Project Title:
-
-Data Visualization of World Population Using Power BI
+Project Title:  Data Visualization of World Population Using Power BI
 
 Project Overview
 
@@ -32,7 +30,7 @@ Tools Used
 
 Project Deliverables
 
--> Power BI Dashboard: A fully functional and interactive dashboard providing comprehensive insights into the world population data.
+ Power BI Dashboard: A fully functional and interactive dashboard providing comprehensive insights into the world population data.
 
 
 Conclusion
