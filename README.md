@@ -1,11 +1,14 @@
 # PRODIGY_DS_01
 Project Title:
+
 Data Visualization of World Population Using Power BI
 
 Project Overview
+
 This project focuses on leveraging the powerful data visualization capabilities of Power BI to analyze and present insights from a comprehensive world population dataset. The primary goal is to create an interactive and informative dashboard that provides a detailed overview of global population trends, distributions, and key demographic indicators.
 
 Objectives
+
 1.Data Preparation: Import and clean the world population dataset to ensure accuracy and consistency.
 
 2.Visualization Development: Design and develop a series of visualizations that effectively communicate key aspects of the world population data.
